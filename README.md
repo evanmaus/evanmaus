@@ -1,39 +1,44 @@
-Hi, I’m Evan Maus 👋
-I’m a UC Berkeley student majoring in Computer Science and Economics, passionate about AI, web development, and data science. With experience in software internships and freelance web development, I focus on building impactful solutions.
+# Hi, I’m Evan Maus 👋
 
-Skills:
-Languages: Python, JavaScript, SQL
-Frameworks: React.js, Next.js, Django, PyTorch
-Tools: Git, JupyterLab, Vim, Visual Studio Code
+I’m a **UC Berkeley student** majoring in **Computer Science** and **Economics**, with a passion for **AI, web development, and data science**. I have hands-on experience through **software internships** and **freelance web development**, focusing on creating impactful solutions.
 
-Featured Projects:
-1. Environmental Organization Website
-Tech: React.js, Next.js, SEO
-Developed and optimized a website, improving traffic by 200-300%.
-Https://github.com/evanmaus/pollinatorPathwaysWebsite
+## Skills
 
-2. Self-Solving Maze (Python)
-Tech: Python, Algorithms
-Scripted a maze-solving algorithm using DFS/BFS.
-https://github.com/evanmaus/selfSolvingMaze
+- **Languages**: Python, JavaScript, SQL
+- **Frameworks**: React.js, Next.js, Django, PyTorch
+- **Tools**: Git, JupyterLab, Vim, Visual Studio Code
 
-3. Stock Data & AI Model
-Tech: Python, Pandas, PyTorch
-Automated stock data retrieval and implemented an LSTM model for predictions.
-https://github.com/evanmaus/stockData
+## Featured Projects
 
-Experience:
-Intern @ necoTECH: Automated data collection for federal contracts using Python.
-Freelance Web Developer: Built and optimized websites with React and Next.js.
+### 1. [Environmental Organization Website](https://github.com/evanmaus/pollinatorPathwaysWebsite)
+- **Tech**: React.js, Next.js, SEO
+- Developed and optimized a website, resulting in a **200-300% increase in traffic**.
 
-Education:
-UC Berkeley | Majors: CS & Economics
+### 2. [Self-Solving Maze (Python)](https://github.com/evanmaus/selfSolvingMaze)
+- **Tech**: Python, Algorithms
+- Created a maze-solving algorithm using DFS/BFS.
 
-Relevant Courses:
-COMPSCI 61A: Structure and Interpretation of Computer Programs
-COMPSCI 61B: Data Structures
-MATH 1B: Calculus
-ECON 2: Intro to Economics
+### 3. [Stock Data & AI Model](https://github.com/evanmaus/stockData)
+- **Tech**: Python, Pandas, PyTorch
+- Automated stock data retrieval and implemented an LSTM model for predictions.
 
-I’m open to SWE internship opportunities—feel free to explore my projects below or reach out!
+## Experience
 
+- **Intern @ necoTECH**: Automated data collection for federal contracts using Python.
+- **Freelance Web Developer**: Built and optimized websites with React and Next.js.
+
+## Education
+
+**UC Berkeley**  
+Majors: **Computer Science** and **Economics**
+
+### Relevant Courses
+
+- COMPSCI 61A: Structure and Interpretation of Computer Programs
+- COMPSCI 61B: Data Structures
+- MATH 1B: Calculus
+- ECON 2: Intro to Economics
+
+---
+
+I’m open to **SWE internship opportunities**—feel free to explore my projects or reach out!
