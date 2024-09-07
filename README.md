@@ -9,7 +9,7 @@ Featured Projects:
 1. Environmental Organization Website
 Tech: React.js, Next.js, SEO
 Developed and optimized a website, improving traffic by 200-300%.
-Https://github.com/evanmaus/PollinatorPathwaysWebsite
+Https://github.com/evanmaus/pollinatorPathwaysWebsite
 2. Self-Solving Maze (Python)
 Tech: Python, Algorithms
 Scripted a maze-solving algorithm using DFS/BFS.
