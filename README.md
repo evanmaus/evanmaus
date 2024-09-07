@@ -5,6 +5,7 @@ Skills:
 Languages: Python, JavaScript, SQL
 Frameworks: React.js, Next.js, Django, PyTorch
 Tools: Git, JupyterLab, Vim, Visual Studio Code
+
 Featured Projects:
 1. Environmental Organization Website
 Tech: React.js, Next.js, SEO
