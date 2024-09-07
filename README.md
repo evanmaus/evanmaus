@@ -19,11 +19,14 @@ https://github.com/evanmaus/selfSolvingMaze
 Tech: Python, Pandas, PyTorch
 Automated stock data retrieval and implemented an LSTM model for predictions.
 [Repository Link]
+
 Experience:
 Intern @ necoTECH: Automated data collection for federal contracts using Python.
 Freelance Web Developer: Built and optimized websites with React and Next.js.
+
 Education:
 UC Berkeley | Majors: CS & Economics
+
 Relevant Courses:
 
 COMPSCI 61A: Structure and Interpretation of Computer Programs
