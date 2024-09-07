@@ -24,7 +24,12 @@ Intern @ necoTECH: Automated data collection for federal contracts using Python.
 Freelance Web Developer: Built and optimized websites with React and Next.js.
 Education:
 UC Berkeley | Majors: CS & Economics
-Relevant Courses: Data Structures (61B), Intro to AI (CS188)
+Relevant Courses:
+
+COMPSCI 61A: Structure and Interpretation of Computer Programs
+COMPSCI 61B: Data Structures
+MATH 1B: Calculus
+ECON 2: Intro to Economics
 
 I’m open to SWE internship opportunities—feel free to explore my projects below or reach out!
 
