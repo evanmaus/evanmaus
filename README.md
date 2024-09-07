@@ -30,7 +30,6 @@ Education:
 UC Berkeley | Majors: CS & Economics
 
 Relevant Courses:
-
 COMPSCI 61A: Structure and Interpretation of Computer Programs
 COMPSCI 61B: Data Structures
 MATH 1B: Calculus
