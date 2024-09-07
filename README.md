@@ -20,7 +20,7 @@ https://github.com/evanmaus/selfSolvingMaze
 3. Stock Data & AI Model
 Tech: Python, Pandas, PyTorch
 Automated stock data retrieval and implemented an LSTM model for predictions.
-[Repository Link]
+https://github.com/evanmaus/stockData
 
 Experience:
 Intern @ necoTECH: Automated data collection for federal contracts using Python.
